@@ -1,2 +1,2 @@
 # ExerciciosCaelum
-Sera postado aqui codigos da apostila da caelum
+Será postado aqui codigos da apostila da caelum
